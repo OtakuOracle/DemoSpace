@@ -178,3 +178,9 @@ C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\images\lab.png
 C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\images\medical.png
 C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\images\reactor.png
 C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\images\sollar_array.png
+C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\images\not.png
+C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\ColorTextBlock.Avalonia.dll
+C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\DialogHost.Avalonia.dll
+C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\Markdown.Avalonia.dll
+C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\MsBox.Avalonia.dll
+C:\Users\Admin\Desktop\DemoSpace\DemoSpace\bin\Debug\net10.0\System.Reactive.dll

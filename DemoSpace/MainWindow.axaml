@@ -5,7 +5,13 @@
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="DemoSpace.MainWindow"
         Title="Авторизация"
-		Icon="Icon/icon.png">
+		Icon="Icon/icon.png"
+		Background="#0B0F1A">
 
-
+	<StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+	    <TextBox Name="LoginTextBox" Margin="5" Width="200" FontFamily="Times New Roman" Watermark="Введите логин"></TextBox>
+	    <TextBox Name="PasswordTextBox" Margin="5" Width="200" FontFamily="Times New Roman" Watermark="Введите пароль"></TextBox>
+        <Button Content="Войти" Margin="5" Click="Auth_Click" FontFamily="Times New Roman" Foreground="White" Background="#4DA6FF"></Button>	
+        <Button Content="Войти как гость" Margin="5" Click="Guest_Click" FontFamily="Times New Roman" Foreground="White"></Button>	
+	</StackPanel>
 </Window>
