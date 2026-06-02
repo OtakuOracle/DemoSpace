@@ -19,6 +19,8 @@
 
 		<StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center">
 			<Button Content="Добавить модуль" Margin="5" Name="AddButton" IsVisible="False" Click="AddButton_Click" Foreground="White" FontFamily="Times New Roman"></Button>
+			<Button Content="Карточка сотрудника" Margin="5" Name="MemberButton" IsVisible="False" Click="MemberButton_Click" Foreground="White" FontFamily="Times New Roman"></Button>
+			<Button Content="Миссии" Margin="5" Name="MissionButton" IsVisible="False" Click="MissionButton_Click" Foreground="White" FontFamily="Times New Roman"></Button>
 			<Button Content="Назад" Margin="5" Click="Back_Click"  Foreground="White" FontFamily="Times New Roman"></Button>
 		</StackPanel>
 

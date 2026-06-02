@@ -1,0 +1,31 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+		x:CompileBindings="False"
+        x:Class="DemoSpace.MissionWindow"
+        Title="MissionWindow">
+
+	<DockPanel>
+		<StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center">
+			<Button Content="Назад" Margin="5" Click="Back_Click"  Foreground="White" FontFamily="Times New Roman"></Button>
+		</StackPanel>
+
+		<ListBox Name="MissionsBox">
+			<ListBox.ItemTemplate>
+				<DataTemplate>
+					<DockPanel>
+						<StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="5">
+							<TextBlock Text="{Binding MissionName, StringFormat='Название:{0}'}" FontFamily="Times New Roman" Margin="5" />
+							<TextBlock Text="{Binding Description, StringFormat='Описание:{0}'}" FontFamily="Times New Roman" Margin="5" />
+							<TextBlock Text="{Binding Priority.PriorityName, StringFormat='Приоритет:{0}'}" FontFamily="Times New Roman" Margin="5" />
+							<TextBlock Text="{Binding StartDate, StringFormat='Дата начала:{0}'}" FontFamily="Times New Roman" Margin="5" />
+							<TextBlock Text="{Binding StatusModuleNavigation.StatusMissionName, StringFormat='Статус:{0}'}" FontFamily="Times New Roman" Margin="5" />
+						</StackPanel>
+					</DockPanel>
+				</DataTemplate>
+			</ListBox.ItemTemplate>
+		</ListBox>
+	</DockPanel>
+</Window>

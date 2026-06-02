@@ -37,8 +37,9 @@ public partial class ModuleWindow : Window
     {
         switch (roleId)
         {
-            case 1: AddButton.IsVisible = true; break;
-           
+            case 1: AddButton.IsVisible = true; MemberButton.IsVisible = true; MissionButton.IsVisible = true; break;
+            case 2: MemberButton.IsVisible = true; break;
+
         }
     }
 
@@ -96,6 +97,28 @@ public partial class ModuleWindow : Window
 
 
     }
+
+    private void MemberButton_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+
+        var memberWindow = new MemberWindow();
+        memberWindow.Show();
+        this.Close();
+
+
+    }
+
+
+    private void MissionButton_Click(object? sender, Avalonia.Interactivity.RoutedEventArgs e)
+    {
+
+        var missionWindow = new MissionWindow();
+        missionWindow.Show();
+        this.Close();
+
+
+    }
+
 
 
 }
