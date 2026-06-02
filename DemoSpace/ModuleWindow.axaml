@@ -18,10 +18,11 @@
 		</StackPanel>
 
 		<StackPanel DockPanel.Dock="Bottom" Orientation="Horizontal" HorizontalAlignment="Center">
+			<Button Content="Добавить модуль" Margin="5" Name="AddButton" IsVisible="False" Click="AddButton_Click" Foreground="White" FontFamily="Times New Roman"></Button>
 			<Button Content="Назад" Margin="5" Click="Back_Click"  Foreground="White" FontFamily="Times New Roman"></Button>
 		</StackPanel>
 
-		<ListBox Name="ModulesBox">
+		<ListBox Name="ModulesBox" SelectionChanged="ModulesBox_SelectionChanged">
 			<ListBox.ItemTemplate>
 				<DataTemplate>
 					<DockPanel Background="{Binding ColourEnergyLevel}">

@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\DemoSpace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\modulewindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\modulewindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\addeditmodule.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\addeditmodule.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\addeditmodule.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\addeditmodule.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\modulewindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\modulewindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\modulewindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\modulewindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\models\\stationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +29,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\demospace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\demospace.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|solutionrelative:demospace\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{392DB479-EDE8-F719-B38F-EF53CACF5C67}|DemoSpace\\DemoSpace.csproj|c:\\users\\admin\\desktop\\demospace\\demospace\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,8 +53,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 125,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 128,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "AddEditModule.axaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\AddEditModule.axaml",
+              "RelativeDocumentMoniker": "DemoSpace\\AddEditModule.axaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\AddEditModule.axaml*",
+              "RelativeToolTip": "DemoSpace\\AddEditModule.axaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-02T08:43:07.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditModule.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\AddEditModule.axaml.cs",
+              "RelativeDocumentMoniker": "DemoSpace\\AddEditModule.axaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\AddEditModule.axaml.cs",
+              "RelativeToolTip": "DemoSpace\\AddEditModule.axaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T08:43:06.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\Models\\Role.cs",
               "RelativeDocumentMoniker": "DemoSpace\\Models\\Role.cs",
@@ -62,8 +96,7 @@
               "RelativeToolTip": "DemoSpace\\Models\\Role.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T18:26:00.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T18:26:00.155Z"
             },
             {
               "$type": "Document",
@@ -73,40 +106,40 @@
               "RelativeDocumentMoniker": "DemoSpace\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\Models\\User.cs",
               "RelativeToolTip": "DemoSpace\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T18:25:47.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ModuleWindow.axaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\ModuleWindow.axaml",
               "RelativeDocumentMoniker": "DemoSpace\\ModuleWindow.axaml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\ModuleWindow.axaml*",
-              "RelativeToolTip": "DemoSpace\\ModuleWindow.axaml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\ModuleWindow.axaml",
+              "RelativeToolTip": "DemoSpace\\ModuleWindow.axaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBQAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-05-28T16:35:23.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ModuleWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\ModuleWindow.axaml.cs",
               "RelativeDocumentMoniker": "DemoSpace\\ModuleWindow.axaml.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\ModuleWindow.axaml.cs",
               "RelativeToolTip": "DemoSpace\\ModuleWindow.axaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T16:35:23.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "DemoSpace.csproj",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\DemoSpace.csproj",
               "RelativeDocumentMoniker": "DemoSpace\\DemoSpace.csproj",
@@ -119,20 +152,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "StationModule.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\Models\\StationModule.cs",
               "RelativeDocumentMoniker": "DemoSpace\\Models\\StationModule.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\Models\\StationModule.cs",
               "RelativeToolTip": "DemoSpace\\Models\\StationModule.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAYwDQAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAUwDQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T16:20:19.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\Class1.cs",
               "RelativeDocumentMoniker": "DemoSpace\\Class1.cs",
@@ -144,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "DemoSpace\\MainWindow.axaml.cs",
@@ -152,12 +185,11 @@
               "RelativeToolTip": "DemoSpace\\MainWindow.axaml.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAA+wCUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-28T16:12:02.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T16:12:02.575Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\DemoSpace\\DemoSpace\\MainWindow.axaml",
               "RelativeDocumentMoniker": "DemoSpace\\MainWindow.axaml",
@@ -165,13 +197,12 @@
               "RelativeToolTip": "DemoSpace\\MainWindow.axaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-28T15:52:01.268Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-28T15:52:01.268Z"
             }
           ]
         },
         {
-          "DockedWidth": 27,
+          "DockedWidth": 24,
           "SelectedChildIndex": -1,
           "Children": [
             {

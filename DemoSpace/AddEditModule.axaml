@@ -1,0 +1,28 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="DemoSpace.AddEditModule"
+		x:CompileBindings="False"
+        Title="добавление, ред, удаление модулей"
+		Icon="Icon/icon.png"
+		Background="#0B0F1A">
+	
+	<StackPanel Orientation="Vertical" VerticalAlignment="Center" HorizontalAlignment="Center">
+		<TextBox Margin="5" Watermark="Введите Название" Width="200" Text="{Binding StationModuleName}"></TextBox>
+		<TextBox Margin="5" Watermark="Введите Уровень энергии" Width="200" Text="{Binding EnergyLevel}"></TextBox>
+		<TextBox Margin="5" Watermark="Введите Уровень кислорода" Width="200" Text="{Binding OxygenLevel}"></TextBox>
+		<TextBox Margin="5" Watermark="Введите Температуру" Width="200" Text="{Binding Temperature}"></TextBox>
+		<TextBox Margin="5" Watermark="Введите Уровень повреждения" Width="200" Text="{Binding DamageLevel}"></TextBox>
+		<ComboBox Name="ModuleType" Width="200" Margin="5" PlaceholderText="Выберите тип модуля" />
+		<ComboBox Name="Status" Width="200" Margin="5" PlaceholderText="Выберите статус" />
+		<Image Source="{Binding Photo}" Height="100" Width="100" Margin="5" Name="ImageBox"></Image>
+		<Button Content="Добавить" Margin="5" Click="Add_Click" IsVisible="False" Name="AddBut" Foreground="White"></Button>
+		<Button Content="Добавить картинку" Margin="5" Click="AddImage_Click" Foreground="White"></Button>
+		<Button Content="Удалить" Margin="5" Click="Delete_Click" IsVisible="False" Name="DeleteBut" Foreground="White"></Button>
+		<Button Content="Изменить" Margin="5" Click="Edit_Click" IsVisible="False" Foreground="White" Name="EditBut"></Button>
+		<Button Content="Назад" Margin="5" Click="Back_Click" Foreground="White"></Button>
+	</StackPanel>
+</Window>
+

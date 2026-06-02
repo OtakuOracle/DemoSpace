@@ -13,7 +13,7 @@ public partial class User
 
     public string? Password { get; set; }
 
-    public int? RoleId { get; set; }
+    public int RoleId { get; set; }
 
     public virtual ICollection<CrewMember> CrewMembers { get; set; } = new List<CrewMember>();
 
